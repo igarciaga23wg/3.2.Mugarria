@@ -100,7 +100,7 @@ public class Interfazea extends JFrame implements ActionListener{
 
             try {
 
-                BufferedReader r1 = new BufferedReader(new FileReader("Mugarria.3.2\\Fitxategiak\\"+selectedOption));
+                BufferedReader r1 = new BufferedReader(new FileReader("3.2.Mugarria\\Fitxategiak\\"+selectedOption));
                 StringBuilder string = new StringBuilder();
 
                 String line;
